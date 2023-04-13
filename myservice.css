@@ -9,7 +9,7 @@ a{text-decoration: none;}
 
 img{
 
-    width: 100px;
+    width: 300px;
 
 
 
@@ -41,6 +41,7 @@ nav{
 nav li{
     display:inline;
     margin-left:10px;
+
 }
 
 .mainMenu{
@@ -54,6 +55,7 @@ nav li{
     float:left;
     text-align: center;
     line-height:40px;
+
 
 }
 
@@ -87,6 +89,7 @@ nav li{
 }
 #service li{
     margin-right: 10px  ;
+
 }
 
 
