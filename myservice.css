@@ -7,12 +7,9 @@ a{text-decoration: none;}
     position: relative;
 }
 
-img{
+#logo>img{
 
     width: 300px;
-
-
-
  }
 
 #logo{
@@ -95,7 +92,34 @@ nav li{
 
 #content>#main{
     text-align: center;
+    font-size: 30px;
 
 }
+
+#serviceItem1{
+    width:330px;
+    margin-bottom: 10px;
+    display:block;
+
+}
+#serviceItem2{
+
+    width:280px;
+    height:290px;
+    margin-top:14px;
+    margin-bottom: 20px;
+    display:block;
+
+}
+#serviceName1{
+    margin-left: 30px;
+}
+#serviceName2{
+
+    margin-left: 30px;
+}
+
+
+
 
 
