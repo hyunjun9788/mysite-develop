@@ -7,7 +7,7 @@ a{text-decoration: none;}
     position: relative;
 }
 
-#logo>img{
+#logo>a>img{
 
     width: 300px;
  }
